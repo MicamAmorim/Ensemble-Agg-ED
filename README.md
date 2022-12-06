@@ -1,3 +1,2 @@
 # Choquet aggregation function aplied to edge detection
-# Ensemble-Agg-ED
-# Ensemble-Agg-ED
+## Criar pasta Images e GroundTruth na raiz
