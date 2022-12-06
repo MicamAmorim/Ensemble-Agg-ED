@@ -1,2 +1,2 @@
 # Choquet aggregation function aplied to edge detection
-## Criar pasta Images e GroundTruth na raiz
+Crie a pasta Images e Ground Truth na raiz
